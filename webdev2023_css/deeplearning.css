@@ -1,0 +1,236 @@
+/*
+Common to all css-----------------------------------------------------------
+*/
+
+a {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  background-color: #ab80e7;
+  /* padding: 3px; */
+}
+
+a.disabled {
+  display: inline-block;
+  pointer-events: none;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+}
+
+
+/*
+Navbar related css----------------------------------------------------------
+*/
+
+.navbar-custom {
+  background-color: #7B2869;
+}
+
+.dropdown-menu {
+  background-color: #7B2869;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.nav {
+  padding: 0 1.25rem;
+}
+
+.navbar-brand {
+  padding: 0.375rem;
+}
+
+/*
+ML-top related css------------------------------------------------------
+Image courtsey "https://unsplash.com/"
+*/
+
+#dl-top {
+  /*
+  Image courtsey "https://unsplash.com/" -- "by Pietro Jeng"
+  Photo by <a href="https://unsplash.com/@pietrozj?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pietro Jeng</a> on <a href="https://unsplash.com/s/photos/deep-learning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  
+  */
+  background-image: url('../webdev2023_images/deeplearning.jpg');
+  background-size: 100%;
+  color: aliceblue;
+  background-repeat: no-repeat;
+  margin-bottom: -0.625rem;
+  margin-top: 3.125rem;
+  padding-bottom: 12.5rem;
+  padding-top: 6.25rem;
+  height: 25rem;
+}
+
+
+h2 {
+  text-align: center;
+}
+
+/*
+Middle-middle related css---------------------------------------------------
+*/
+
+.dl-proj {
+  margin: 3.75rem 0;
+}
+
+/*
+Tiles related css-----------------------------------------------------------
+Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
+*/
+
+.tiles {
+  border: 1px solid rgb(243, 241, 241); 
+  height: 12.5rem; 
+  margin: 0.625rem;
+  width: 23.125rem;
+}
+
+.div-tiles {
+  margin: 1.25rem;
+}
+
+.tiles:hover {
+  background-color: aquamarine;
+  text-decoration: none;
+}
+
+#bikes {
+  /*
+  "https://www.istockphoto.com/"
+  https://media.istockphoto.com/id/1223789411/photo/ai-concept-deep-learning-gui.jpg?s=612x612&w=0&k=20&c=_Y7S76fRXtTalMNPzTcpGRJA_ES3uLgrWl25SFa1oHI=
+  */
+  background-image: url('/webdev2023_images/experience.jpg');
+  background-size: 23.125rem;
+  color: #003459;
+}
+
+#telecom {
+  /*
+  "https://www.istockphoto.com/"
+  https://media.istockphoto.com/id/486735214/photo/excellence.jpg?s=612x612&w=0&k=20&c=REfbo27YHXZdWdgF_ZohogCPOOruE45qrtqjg4lZx44=
+  */
+  background-image: url('/webdev2023_images/competency.jpg');
+  background-size: 23.125rem;
+  color: #406603;
+}
+
+#saas {
+  /*
+  https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvamVjdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60 -- "by Octavian Dan"
+  */
+  background-image: url('/webdev2023_images/projects.jpg');
+  background-size: 23.125rem;
+  color: #f08102;
+}
+
+#term {
+  /*
+  https://images.unsplash.com/photo-1620860279731-3f193cffe80f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx2aXN1YWwtc2VhcmNofDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60 -- "by Possessed Photography"
+  */
+  background-image: url('/webdev2023_images/technical.jpg');
+  background-size: 23.125rem;
+  color: #00171f;
+}
+
+#creditcard {
+  /*
+  "https://www.istockphoto.com/"
+  https://media.istockphoto.com/id/157404997/photo/personal-data.jpg?s=612x612&w=0&k=20&c=qO0RlM9KvZ6G5LkXovyBnlRRUWtrGon5_RwxNRkwKmM=
+  */
+  background-image: url('/webdev2023_images/personal.jpg');
+  background-size: 23.125rem;
+  color: #CC7722;
+}
+
+#newskill {
+  /*
+  https://images.unsplash.com/photo-1620458883441-3d278950d90b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx2aXN1YWwtc2VhcmNofDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60 -- "by Albert Vincent Wu"
+  */
+  background-image: url('/webdev2023_images/qualification.jpg');
+  background-size: 23.125rem;
+  color: #2b2d42;
+}
+
+hr {
+  border: 6px dotted black;
+  border-bottom: none;
+  opacity: 0.2;
+  width: 5%;
+  margin: auto;
+}
+
+/*
+Middle-bottom container related css-----------------------------------------
+Taken from css3buttongenerator website
+*/
+
+.btn {
+  background: #2DCDDF;
+  background-image: -webkit-linear-gradient(top, #2DCDDF, #12cee3);
+  background-image: -moz-linear-gradient(top, #2DCDDF, #12cee3);
+  background-image: -ms-linear-gradient(top, #2DCDDF, #12cee3);
+  background-image: -o-linear-gradient(top, #2DCDDF, #12cee3);
+  background-image: linear-gradient(to bottom, #2DCDDF, #12cee3);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #12c0e3;
+  background-image: -webkit-linear-gradient(top, #12c0e3, #12c0e3);
+  background-image: -moz-linear-gradient(top, #12c0e3, #12c0e3);
+  background-image: -ms-linear-gradient(top, #12c0e3, #12c0e3);
+  background-image: -o-linear-gradient(top, #12c0e3, #12c0e3);
+  background-image: linear-gradient(to bottom, #12c0e3, #12c0e3);
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.contact-me {
+  margin: 3.75rem 0;
+  text-align: center;
+}
+
+/*
+Bottom-container related css------------------------------------------------
+*/
+
+.copy-right {
+  color: #3d4444;
+  font-size: 0.75rem;
+  margin-top: 0.625rem;
+  padding: 0.625rem 0;
+}
+
+.footer {
+  background-color: #FFBABA;
+  margin: 1.25rem 0 0;
+  padding: 2.5rem 0.625rem 1.25rem;
+  text-align: center;
+}
+
+.footer-link {
+  margin: 0.3125rem;
+}
+
+.footer-link:hover {
+  background-color: white;
+  color: rgb(7, 240, 162);
+  padding: 0.3125rem;
+}
+

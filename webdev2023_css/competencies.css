@@ -1,0 +1,117 @@
+/*
+Common to all css-----------------------------------------------------------
+*/
+
+a {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  background-color: #ab80e7;
+  /* padding: 3px; */
+}
+
+a.disabled {
+  display: inline-block;
+  pointer-events: none;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+}
+
+
+/*
+Navbar related css----------------------------------------------------------
+*/
+
+.navbar-custom {
+  background-color: #7B2869;
+}
+
+.dropdown-menu {
+  background-color: #7B2869;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.nav {
+  padding: 0 1.25rem;
+}
+
+.navbar-brand {
+  padding: 0.375rem;
+}
+
+
+/*
+Competency related css------------------------------------------------------
+Image courtsey "https://unsplash.com/" -- "by Blocks Fletcher"
+https://images.unsplash.com/photo-1528552969026-5ba5778bf95d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTkyfHxyYWNlJTIwdHJhY2t8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
+*/
+
+.competency {
+  background-image: url('../webdev2023_images/competency2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  margin-bottom: 1.8125rem;
+  /*padding: 4.5rem 6rem 4.5rem;*/
+  padding: 2.5rem 4rem 2.5rem;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: bolder;
+  color: #FDFF00;
+  margin-bottom: 5.125rem;
+  margin-top: 3.5rem;
+  padding-top: 1.125rem;
+  text-align: center;
+}
+
+ol {
+  color: #FDFF00;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  margin-top: -3.125rem;
+  padding-left: 33rem;
+  padding-bottom: 3rem;
+}
+
+section {
+  margin-bottom: -1.8125rem;
+}
+
+/*
+Bottom-container related css------------------------------------------------
+*/
+
+.copy-right {
+  color: #3d4444;
+  font-size: 0.75rem;
+  margin-top: 0.625rem;
+  padding: 0.625rem 0;
+}
+
+.footer {
+  background-color: #FFBABA;
+  /*margin: 1.25rem 0 -1rem;*/
+  padding: 3.5rem 0 2.5rem;
+  text-align: center;
+}
+
+.footer-link {
+  margin: 0.3125rem;
+}
+
+.footer-link:hover {
+  background-color: white;
+  color: rgb(7, 240, 162);
+  padding: 0.3125rem;;
+}
+

@@ -1,0 +1,108 @@
+html{
+  scroll-behavior: smooth;
+}
+
+.overall {
+  background-color: #A6BB8D;
+}
+
+.body {
+  font-family: 'Merriweather', serif;
+  background-color: #EAE7B1;
+  border-radius: 1.875rem;
+  padding: 0.625rem;
+  margin: -0.9375rem;
+}
+
+.salute{
+  padding: 1rem;
+  margin: -0.5rem;
+}
+
+.salutation{
+  background-color: #3C6255;
+  text-align: center;
+  color: #F7F5EB;
+  padding: 1.25rem;
+  margin: -1rem;
+  border-radius: 1.875rem;
+}
+
+.socials{
+  margin: auto;
+  padding: 0.625rem;
+}
+
+
+.socials a{
+  margin: auto 0.3125rem;
+}
+.contact{
+  padding: auto;
+  margin: 0.3125rem;
+}
+
+header{
+  margin: 0.25rem;
+}
+
+#abt {
+  color: #61876E;
+  font-weight: bolder;
+}
+
+header nav a {
+  color: #61876E;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  color: #0ae155;
+  text-decoration: underline;
+}
+
+.forh3{
+  color: #61876E;
+  font-weight: bolder;
+  padding: 0.625rem;
+  text-align: center;
+
+}
+
+h4{
+  color: red;
+}
+
+h5{
+  color: midnightblue;
+}
+
+table,td, th{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.foot{
+  background-color: #3C6255;
+  color: whitesmoke;
+  padding: 1.875rem;
+  text-align: center;
+}
+
+#top a {
+  color: #61876E;
+  font-weight: bolder;
+  text-decoration: none;
+
+}
+
+#top h3 {
+  text-align: center;
+  
+}
+
+#top a:hover {
+  text-decoration: underline;
+}
+
