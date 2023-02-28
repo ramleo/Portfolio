@@ -113,24 +113,27 @@ h5, p {
   margin-bottom: -2.5rem;
 }
 
-#telecom {
+#leads {
   color: rgb(245, 241, 241);
   margin-bottom: -2.5rem;
 }
 
-#saas {
-  color: #3C2A21;
+#house {
+  /*
+  Photo by <a href="https://unsplash.com/@derickray?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Derick McKinney</a> on <a href="https://unsplash.com/s/photos/house-prices?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  */
+  color: #F9F54B;
   margin-bottom: -2.5rem;
 }
 
-#term {
+#saas {
   color: #850000;
   margin-bottom: -2.5rem;
 }
 
-#ccard {
+#telecom {
   /* border-color: black; */
-  color: #FF7000;
+  color: rgb(245, 241, 241);
   margin-bottom: -2.5rem;
 }
 
