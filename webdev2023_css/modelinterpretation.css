@@ -74,7 +74,7 @@ Image courtsey "https://unsplash.com/"
   margin-bottom: -0.625rem;
   margin-top: 3.125rem;
   padding-top: 25rem;
-  padding-bottom: 7rem;
+  padding-bottom: 16rem;
 }
 
 /*
@@ -100,6 +100,7 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
 
 .div-tiles {
   margin: 1.25rem;
+  padding: 0 9rem;
 }
 
 .tiles:hover {
