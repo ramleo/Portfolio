@@ -105,12 +105,15 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
 .tiles:hover {
   background-color: aquamarine;
   text-decoration: none;
+  
 }
 
 #shap {
   /*
   https://i.ytimg.com/vi/Ty7qf3mV_Qc/maxresdefault.jpg
   */
+  border: 2px solid;
+  border-color: #12c0e3;
   background-image: url('../webdev2023_images/shap.jpg');
   background-size: 23.125rem;
   color: #000;
@@ -120,6 +123,8 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
   /*
   https://algotech.netlify.com/img/2019/12/lime.png
   */
+  border: 2px solid;
+  border-color: #12c0e3;
   background-image: url('../webdev2023_images/lime.png');
   background-size: 23.125rem;
   color: #ffff;
@@ -129,6 +134,8 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
   /*
   https://miro.medium.com/max/3358/1*VoR-zomO3ULW2THkKa6f0g.png
   */
+  border: 2px solid;
+  border-color: #12c0e3;
   background-image: url('../webdev2023_images/shaplime.png');
   background-size: 23.125rem;
   color: #000;
