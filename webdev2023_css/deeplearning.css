@@ -63,7 +63,7 @@ Image courtsey "https://unsplash.com/"
   color: aliceblue;
   background-repeat: no-repeat;
   margin-bottom: -0.625rem;
-  margin-top: 3.125rem;
+  margin-top: 5rem;
   padding-bottom: 14rem;
   padding-top: 6.25rem;
   height: 25rem;
@@ -96,7 +96,7 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
 
 .div-tiles {
   margin: 1.25rem;
-  padding: 0 30rem;
+  padding: 0 35rem;
 }
 
 .tiles:hover {
