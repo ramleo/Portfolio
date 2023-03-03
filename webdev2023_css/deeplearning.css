@@ -96,6 +96,7 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
 
 .div-tiles {
   margin: 1.25rem;
+  padding: 0 25rem;
 }
 
 .tiles:hover {
@@ -108,7 +109,7 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
   "https://www.istockphoto.com/"
   https://media.istockphoto.com/id/1223789411/photo/ai-concept-deep-learning-gui.jpg?s=612x612&w=0&k=20&c=_Y7S76fRXtTalMNPzTcpGRJA_ES3uLgrWl25SFa1oHI=
   */
-  background-image: url('/webdev2023_images/experience.jpg');
+  background-image: url('../webdev2023_images/experience.jpg');
   background-size: 23.125rem;
   color: #003459;
 }
@@ -118,7 +119,7 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
   "https://www.istockphoto.com/"
   https://media.istockphoto.com/id/486735214/photo/excellence.jpg?s=612x612&w=0&k=20&c=REfbo27YHXZdWdgF_ZohogCPOOruE45qrtqjg4lZx44=
   */
-  background-image: url('/webdev2023_images/competency.jpg');
+  background-image: url('../webdev2023_images/competency.jpg');
   background-size: 23.125rem;
   color: #406603;
 }
@@ -127,7 +128,7 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
   /*
   https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvamVjdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60 -- "by Octavian Dan"
   */
-  background-image: url('/webdev2023_images/projects.jpg');
+  background-image: url('../webdev2023_images/projects.jpg');
   background-size: 23.125rem;
   color: #f08102;
 }
@@ -136,7 +137,7 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
   /*
   https://images.unsplash.com/photo-1620860279731-3f193cffe80f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx2aXN1YWwtc2VhcmNofDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60 -- "by Possessed Photography"
   */
-  background-image: url('/webdev2023_images/technical.jpg');
+  background-image: url('../webdev2023_images/technical.jpg');
   background-size: 23.125rem;
   color: #00171f;
 }
@@ -146,7 +147,7 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
   "https://www.istockphoto.com/"
   https://media.istockphoto.com/id/157404997/photo/personal-data.jpg?s=612x612&w=0&k=20&c=qO0RlM9KvZ6G5LkXovyBnlRRUWtrGon5_RwxNRkwKmM=
   */
-  background-image: url('/webdev2023_images/personal.jpg');
+  background-image: url('../webdev2023_images/personal.jpg');
   background-size: 23.125rem;
   color: #CC7722;
 }
@@ -155,7 +156,7 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
   /*
   https://images.unsplash.com/photo-1620458883441-3d278950d90b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx2aXN1YWwtc2VhcmNofDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60 -- "by Albert Vincent Wu"
   */
-  background-image: url('/webdev2023_images/qualification.jpg');
+  background-image: url('../webdev2023_images/loading.jpg');
   background-size: 23.125rem;
   color: #2b2d42;
 }
