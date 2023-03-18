@@ -122,14 +122,14 @@ Images courtsey "https://unsplash.com/" and "https://www.istockphoto.com/"
   /*
   Photo by <a href="https://unsplash.com/@iriser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Irina Iriser</a> on <a href="https://unsplash.com/wallpapers/nature/forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   */
-  background-image: url('../webdev2023_images/randonforest.jpg');
+  background-image: url('../webdev2023_images/randomforest.jpg');
   background-size: 23.125rem;
   color: #ffff;
 }
 
 #xgbdeploy {
   /*
-  Photo by <a href="https://unsplash.com/@arstyy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Neill</a> on <a href="https://unsplash.com/s/photos/extreme-boost?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  <a href="https://www.freepik.com/free-vector/doing-business-with-good-ideas-it-s-like-having-rocket-aimed-high-graph-clearly-quickly-illustration-3d-style_18779141.htm#page=3&query=boost&position=26&from_view=search&track=sph">Image by jcomp</a> on Freepik
   */
   background-image: url('../webdev2023_images/xgboost.jpg');
   background-size: 23.125rem;

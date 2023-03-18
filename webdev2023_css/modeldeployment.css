@@ -108,32 +108,35 @@ h5, p {
   font-weight: bold;
 }
 
-#bike {
+#shapxgbdeploy {
+    /*
+  Photo by <a href="https://unsplash.com/@othentikisra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">israel palacio</a> on <a href="https://unsplash.com/s/photos/boost?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  */
   color: #fff;
   margin-bottom: -2.5rem;
 }
 
-#leads {
-  color: rgb(245, 241, 241);
-  margin-bottom: -2.5rem;
-}
-
-#house {
-  /*
-  Photo by <a href="https://unsplash.com/@derickray?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Derick McKinney</a> on <a href="https://unsplash.com/s/photos/house-prices?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+#rfdeploy {
+    /*
+  Photo by <a href="https://unsplash.com/@iriser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Irina Iriser</a> on <a href="https://unsplash.com/wallpapers/nature/forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   */
-  color: #F9F54B;
-  margin-bottom: -2.5rem;
-}
-
-#saas {
-  color: #850000;
-  margin-bottom: -2.5rem;
-}
-
-#telecom {
-  /* border-color: black; */
   color: rgb(245, 241, 241);
+  margin-bottom: -2.5rem;
+}
+
+#xgbdeploy {
+  /*
+  <a href="https://www.freepik.com/free-vector/doing-business-with-good-ideas-it-s-like-having-rocket-aimed-high-graph-clearly-quickly-illustration-3d-style_18779141.htm#page=3&query=boost&position=26&from_view=search&track=sph">Image by jcomp</a> on Freepik
+  */
+  color: #ffff;
+  margin-bottom: -2.5rem;
+}
+
+#advreg {
+  /*
+  <a href="https://www.freepik.com/free-photo/businesswoman-networking-using-digital-devices_15440982.htm#query=regression&position=41&from_view=search&track=sph">Image by rawpixel.com</a> on Freepik
+  */
+  color: #ffff;
   margin-bottom: -2.5rem;
 }
 
