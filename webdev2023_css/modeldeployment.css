@@ -27,13 +27,13 @@ h2 {
   text-align: center;
 }
 
-hr {
+/*hr {
   border: 6px dotted black;
   border-bottom: none;
   opacity: 0.2;
   width: 5%;
   margin: auto;
-}
+}*/
 
 /*
 Navbar related css----------------------------------------------------------
